@@ -1,7 +1,7 @@
 Hi 👋 My name is Nadir
 ======================
 
-Web Developer
+Full-Stack Web Developer
 -------------
 
 * 🌍  I'm based in Baku
